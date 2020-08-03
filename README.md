@@ -4,7 +4,7 @@
 - ⚡ I have my andvanced Deploma in Electronics and Communicaitons
 - ⚡ I have my certificate III in IT
 
-[Wallaby Websites][website]
+[<img align="left" alt="walabywebsites.com.au" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> Wallaby Websites][website]
 
 <br/>
 
