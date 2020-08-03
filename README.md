@@ -4,7 +4,7 @@
 - ⚡ I have my andvanced Deploma in Electronics and Communicaitons
 - ⚡ I have my certificate III in IT
 
-[<img align="left" alt="walabywebsites.com.au" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> Walabywebsites.com.au](www.wallabywebsites.com.au)
+[<img align="left" alt="walabywebsites.com.au" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 ### Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -23,3 +23,5 @@
 ---
 
 <img align="left" alt="Brenton's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BrentonHolloway&show_icons=true&hide_border=true" />
+
+[website]: https://wallabywebsites.com.au/
