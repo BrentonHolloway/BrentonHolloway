@@ -1,8 +1,8 @@
 ### Hi there, My name is Brenton 👋
 - 🔭 I’m currently at RMIT University in Melbourne
-- 🌱 I’m currently studying a Bachelor of Engineering (Electronics and Communications) / Bachelor of Computer Science.
-- ⚡ I have my andvanced Deploma in Electronics and Communicaitons
-- ⚡ I have my certificate III in IT
+- 🌱 I’m currently studying a Bachelor of Engineering (Electronics and Communication Engineering) (Honours) / Bachelor of Computer Science.
+- ⚡ I have my Advanced Diploma of Electronics and Communications Engineering
+- ⚡ I have my Certificate II and III in Information Communication Technology
 
 [<img align="left" alt="walabywebsites.com.au" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> Wallaby Websites][website]
 
