@@ -1,7 +1,7 @@
 <img align="center" width="300px" src="https://avatars1.githubusercontent.com/u/20651739"/>
 
 ### Hi there, My name is Brenton 👋
-- 🔭 I’m currently seeking employment in the feild of Electronics Engineering or Computer Science.
+- 🔭 I’m currently seeking employment in the field of Electronics Engineering or Computer Science.
 - 🌱 I have completed my Bachelor of Engineering (Electronics and Communication Engineering) (Honours) / Bachelor of Computer Science.
 - ⚡ I have completed my Advanced Diploma of Electronics and Communications Engineering
 - ⚡ I have completed my Certificate II and III in Information Communication Technology
