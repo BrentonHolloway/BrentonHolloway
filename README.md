@@ -1,10 +1,12 @@
 <img align="center" width="300px" src="https://avatars1.githubusercontent.com/u/20651739"/>
 
-### Hi there, My name is Brenton 👋
-- 🔭 I’m currently seeking employment in the field of Electronics Engineering or Computer Science.
-- 🌱 I have completed my Bachelor of Engineering (Electronics and Communication Engineering) (Honours) / Bachelor of Computer Science.
-- ⚡ I have completed my Advanced Diploma of Electronics and Communications Engineering
-- ⚡ I have completed my Certificate II and III in Information Communication Technology
+### Hi there, My name is Brenton
+
+### Summary
+- I’m currently seeking employment in the field of Electronics Engineering or Computer Science.
+- I have completed my Bachelor of Engineering (Electronics and Communication Engineering) (Honours) / Bachelor of Computer Science.
+- I have completed my Advanced Diploma of Electronics and Communications Engineering
+- I have completed my Certificate II and III in Information Communication Technology
 
 ### About Me
 I am an engineering graduate with a Bachelor of Engineering (Electronics and Communication Engineering) (Honors) / Bachelor of Computer Science from RMIT University. I am skilled in Computer Science and Electronics Engineering. My preferred programming languages are PHP, HTML, JavaScript, Java, C/C++ and my preferred frameworks and CMS are Laravel, React and WordPress and am familiar with technologies such as Git. I have a keen interest in learning new technologies and languages.
