@@ -17,7 +17,7 @@ My university capstone projects (Electronics and Computer Science) both required
 
 I am a hard-working, organised individual with a willingness to learn. I enjoy problem solving and am self-motivated. Last year I developed my own business called Wallaby Websites and worked closely with a client to create and maintain their website. At various times through my studies, I have volunteered my time in extracurricular activities such as teaching primary school students to program robots, LEGO Mindstorm and to create their own basic webpages.
 
-### Contant
+### Contact
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/linkedin.svg"/> LinkedIn][linkedin]
 
 [<img align="left" alt="walabywebsites.com.au" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> Wallaby Websites][website]
