@@ -22,6 +22,8 @@ I am a hard-working, organised individual with a willingness to learn. I enjoy p
 
 [<img align="left" alt="walabywebsites.com.au" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> Wallaby Websites][website]
 
+### Portfolio
+[<img align="left" alt="Profile" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"> Portfolio][portfolio]
 <br/>
 
 ### Languages and Tools
@@ -50,3 +52,4 @@ I am a hard-working, organised individual with a willingness to learn. I enjoy p
 
 [website]: https://wallabywebsites.com.au/
 [linkedin]: https://www.linkedin.com/in/brenton-holloway/
+[portfolio]: https://brentonholloway.github.io/#/
