@@ -1,5 +1,3 @@
-<img align="center" width="300px" src="https://avatars1.githubusercontent.com/u/20651739"/>
-
 ### Hi there, My name is Brenton
 
 ### Summary
