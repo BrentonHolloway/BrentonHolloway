@@ -18,8 +18,6 @@ I am a hard-working, organised individual with a willingness to learn. I enjoy p
 ### Contact
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/linkedin.svg"/> LinkedIn][linkedin]
 
-[<img align="left" alt="walabywebsites.com.au" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> Wallaby Websites][website]
-
 ### Portfolio
 [<img align="left" alt="Profile" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"> Portfolio][portfolio]
 <br/>
