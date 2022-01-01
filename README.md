@@ -44,8 +44,9 @@ I am a hard-working, organised individual with a willingness to learn. I enjoy p
 
 ### Stats
 [![wakatime](https://wakatime.com/badge/user/b8ab6c7e-7141-4819-a8df-a09387401d9e.svg)](https://wakatime.com/@b8ab6c7e-7141-4819-a8df-a09387401d9e)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brentonholloway)](https://github.com/anuraghazra/github-readme-stats)
-![Brenton Holloway's GitHub stats](https://github-readme-stats.vercel.app/api?username=brentonholloway&show_icons=true&theme=radical)
+![Brenton Holloway's GitHub stats](https://github-readme-stats.vercel.app/api?username=brentonholloway&show_icons=true)
 
 [website]: https://wallabywebsites.com.au/
 [linkedin]: https://www.linkedin.com/in/brenton-holloway/
