@@ -22,9 +22,6 @@ I am a hard-working, organised individual with a willingness to learn. I enjoy p
 [<img align="left" alt="Profile" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"> Portfolio][portfolio]
 <br/>
 
-### Stats
-[![wakatime](https://wakatime.com/badge/user/b8ab6c7e-7141-4819-a8df-a09387401d9e.svg)](https://wakatime.com/@b8ab6c7e-7141-4819-a8df-a09387401d9e)
-
 ### Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -45,9 +42,10 @@ I am a hard-working, organised individual with a willingness to learn. I enjoy p
 <br />
 <br />
 
----
-
-<img align="left" alt="Brenton's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BrentonHolloway&show_icons=true&hide_border=true" />
+### Stats
+[![wakatime](https://wakatime.com/badge/user/b8ab6c7e-7141-4819-a8df-a09387401d9e.svg)](https://wakatime.com/@b8ab6c7e-7141-4819-a8df-a09387401d9e)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brentonholloway)](https://github.com/anuraghazra/github-readme-stats)
+![Brenton Holloway's GitHub stats](https://github-readme-stats.vercel.app/api?username=brentonholloway&show_icons=true&theme=radical)
 
 [website]: https://wallabywebsites.com.au/
 [linkedin]: https://www.linkedin.com/in/brenton-holloway/
