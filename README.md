@@ -1,7 +1,7 @@
 ### Hi there, My name is Brenton
 
 ### Summary
-- I'm currently employed at Think Smart Health as a Developer.
+- I'm currently employed at Think Smart Health as a Full Stack Developer.
 - I have completed my Bachelor of Engineering (Electronics and Communication Engineering) (Honours) / Bachelor of Computer Science.
 - I have completed my Advanced Diploma of Electronics and Communications Engineering
 - I have completed my Certificate II and III in Information Communication Technology
