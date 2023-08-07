@@ -45,14 +45,12 @@ I am a hard-working, organised individual with a willingness to learn. I enjoy p
 ### Stats
 [![wakatime](https://wakatime.com/badge/user/b8ab6c7e-7141-4819-a8df-a09387401d9e.svg)](https://wakatime.com/@b8ab6c7e-7141-4819-a8df-a09387401d9e)
 
-[![wkaktime](https://wakatime.com/share/@brentonholloway/7bd2a10e-d3ac-436a-9373-6f02f900b308.svg)](https://wakatime.com/@b8ab6c7e-7141-4819-a8df-a09387401d9e)
+[![wkaktime](https://wakatime.com/share/@brentonholloway/e5e7c2bb-0cdf-41d3-a4c5-83847f27ae17.svg#gh-dark-mode-only)](https://wakatime.com/@b8ab6c7e-7141-4819-a8df-a09387401d9e#gh-dark-mode-only)
+[![wkaktime](https://wakatime.com/share/@brentonholloway/7bd2a10e-d3ac-436a-9373-6f02f900b308.svg#gh-light-mode-only)](https://wakatime.com/@b8ab6c7e-7141-4819-a8df-a09387401d9e#gh-light-mode-only)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/@b8ab6c7e-7141-4819-a8df-a09387401d9e"/>
-  <img src="https://wakatime.com/share/@brentonholloway/7bd2a10e-d3ac-436a-9373-6f02f900b308.svg"/>
-</picture>
 
-[![wakatime](https://wakatime.com/share/@brentonholloway/7053ac92-2b36-410b-86e6-712ba3a5e297.svg)](https://wakatime.com/@b8ab6c7e-7141-4819-a8df-a09387401d9e)
+[![wakatime](https://wakatime.com/share/@brentonholloway/c760c79c-ff04-4b71-94ba-09f6b953b9fb.svg#gh-dark-mode-only)](https://wakatime.com/@b8ab6c7e-7141-4819-a8df-a09387401d9e#gh-dark-mode-only)
+[![wakatime](https://wakatime.com/share/@brentonholloway/cdcfaad8-3357-4387-b347-04a0c9ec88bd.svg#gh-light-mode-only)](https://wakatime.com/@b8ab6c7e-7141-4819-a8df-a09387401d9e#gh-light-mode-only)
 
 [website]: https://wallabywebsites.com.au/
 [linkedin]: https://www.linkedin.com/in/brenton-holloway/
