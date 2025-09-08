@@ -5,15 +5,15 @@
 - I have completed my Bachelor of Engineering (Electronics and Communication Engineering) (Honours) / Bachelor of Computer Science.
 - I have completed my Advanced Diploma of Electronics and Communications Engineering
 - I have completed my Certificate II and III in Information Communication Technology
+- I am passonate about technology and my LEGO hobby
 
 ### About Me
-I am an engineering graduate with a Bachelor of Engineering (Electronics and Communication Engineering) (Honors) / Bachelor of Computer Science from RMIT University. I am skilled in Computer Science and Electronics Engineering. My preferred programming languages are PHP, HTML, JavaScript, Java, C/C++ and my preferred frameworks and CMS are Laravel, React and WordPress and am familiar with technologies such as Git. I have a keen interest in learning new technologies and languages.
-
-I enjoy collaborative work and am confident I would be an asset to any Research and Development Team. As a recently graduated student I have worked as part of many team projects as both a member and a leader. In 2016 I enjoyed participating in EWB (Engineers Without Borders) Challenge which required communication and collaboration with team members.
-
-My university capstone projects (Electronics and Computer Science) both required a web application to be created according to the client’s specification. Throughout the development of the application unit, tests and function tests were created to ensure that the integrity of the application was maintained. Documentation was also created to ensure that future developers can maintain and develop the projects. I believe my involvement with the projects has given me the required skills to carry out responsibilities in developing and maintaining code.
-
-I am a hard-working, organised individual with a willingness to learn. I enjoy problem solving and am self-motivated. Last year I developed my own business called Wallaby Websites and worked closely with a client to create and maintain their website. At various times through my studies, I have volunteered my time in extracurricular activities such as teaching primary school students to program robots, LEGO Mindstorm and to create their own basic webpages.
+I hold a Bachelor of Engineering (Electronics and Communication Engineering) (Honors) and a Bachelor of Computer Science from RMIT University. With a strong foundation in both computer science and electronics engineering, I have expertise in programming, particularly in C#, and am proficient in technologies such as Docker and Git. I am passionate about embracing new technologies and continuously expanding my skill set.
+I thrive in collaborative environments and am confident in my ability to contribute effectively to research and development teams. As a recent graduate, I have gained extensive experience in team-based projects, serving in both leadership and collaborative roles. Notably, in 2016, I participated in the Engineers Without Borders (EWB) Challenge, which honed my skills in communication, teamwork, and problem-solving.
+Since March 15, 2021, I have been employed at ThinkSmart Health, a specialized software company focused on developing integration solutions for medical devices and electronic medical record (EMR) systems. This role has strengthened my technical expertise and ability to deliver impactful software solutions in a professional setting.
+My university capstone projects in electronics and computer science centered on developing web applications tailored to client specifications. Throughout these projects, I implemented unit and functional testing to ensure application integrity and produced comprehensive documentation to support future development and maintenance. These experiences have equipped me with the skills necessary to excel in software development and code maintenance roles.
+As a diligent and organized professional, I am driven by a passion for problem-solving and a commitment to self-improvement.
+I am eager to leverage my technical expertise, collaborative mindset, and dedication to continuous learning to contribute to innovative projects and deliver value to your organization.
 
 ### Contact
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg"/> LinkedIn][linkedin]
